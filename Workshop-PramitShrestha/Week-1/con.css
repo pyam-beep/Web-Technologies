@@ -1,0 +1,42 @@
+h2{
+    color:  #A1FFCE;
+    
+    text-align: center;
+}
+p{
+    padding-left: 20px;
+    font-size: 100%;
+}
+img{
+    
+    float: right;
+    
+}
+ul{ 
+    color: #3a6186;
+    margin: 100px;
+    padding: 20px;
+}
+ol{
+    color: #3a6186;
+    margin: 100px;
+    padding-left: 20px;
+}
+th{
+    color: #4ECDC4;
+}
+table{
+    width: 50%;
+}
+td{
+    color: #556270;
+}
+
+table, th, tr{
+
+    border: 1px solid;
+}
+a{
+    margin: 100px;
+    padding-top: 100px;
+}
